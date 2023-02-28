@@ -1,4 +1,4 @@
-<<GITHUBE / DESKTOP>>
+<<GITHUBE / DESKTOP>> (Conteúdo criado com base no curso html e css módulo 3 do Curso em vídeo, ep 2-11)
 
 ► 1° você deve o Github Desktop no site
 (Link: https://desktop.github.com/)
@@ -82,3 +82,9 @@ Não crie um arquivo README,agora copie e cole os arquivos fundamentais para a e
 inicialização (index.html), ex: folha de estilo(css), imagens, fontes, etc... na nova pasta criada, envie 
 o repositório para o Github e crie uma uma hospedagem normalmente como foi mostrado [Desta forma o link 
 de hospedagem irá redirecionar automáticamente para site criado] 
+
+18° Como clonar um repositório remoto; para isso abra o o repositório no Github que deseja clonar 
+> clique em "Code" (Botão em verde) > open with Github desktop > dê permição 
+
+19° Para crair um repositório remoto com base no repositório local que você crirou clonado-o, basta você 
+crair uma alteração > salvar > e envair para o Github 

@@ -63,3 +63,22 @@ deseja excluir > Repository > Remove
 
 14° Como apagar seu repositório local, para isso vá nos seus repositórios no Github > settings 
 > role para o final da página > delete this repository
+
+15° Como criar uma hospedagem no próprio Github; para isso selecione o seu arquivo/pasta armazenada
+no repositório remoto > settings > pages (canto esquerdo) > troca aopção de "none" para "main" em "branch"
+> save > aguarde alguns segundos (atualize a página até a criação de um link) > clique no link que foi 
+gerado, o repositório hospeadado irá abrir inicialmente o arquivo "README", para abrir o arquivo em si 
+(index.html) escreva o nome da pasta na URL onde se encontra o arquivo de inicialização, caso esteja 
+nomeado como "index.html" não será preciso escrever, caso o contrário será preciso escrever o nome do 
+arquivo de inicialização 
+Ex: https://joaovithormpv.github.io/02-modulo_html_css/03.1-desafio_site/
+
+16° Você pode adiconar um link no próprio arquivo README com o endereço do arquivo de inicialização, 
+assim será mais facíl acessa-lo
+
+17° (Melhor) Outra forma de criar uma hospedagem no Github; para isso crie uma repositório local no APP 
+para um novo arquivo (para fazer isso basta colocar um nome enexistente em "name" na págian de criação), 
+Não crie um arquivo README,agora copie e cole os arquivos fundamentais para a execução do aquivo de 
+inicialização (index.html), ex: folha de estilo(css), imagens, fontes, etc... na nova pasta criada, envie 
+o repositório para o Github e crie uma uma hospedagem normalmente como foi mostrado [Desta forma o link 
+de hospedagem irá redirecionar automáticamente para site criado] 

@@ -1,0 +1,29 @@
+Shift + setinha = Sublinha o texto
+
+Ctrl + Space = Cria uma tag
+
+#Ctrl + Enter = Cria uma nova linha de código (abaixo)
+
+#Ctrl +  Shift + Enter = Cria uma nova linha de código (acima)
+
+Ctrl + ; = Caixa de mensagem
+
+#Ctrl + Botão Esquerdo = Digitar em diversas linhas ao msm tempo
+
+##Ctrl + D = Selecionar palavras iguais e modifica-las
+
+Ctrl + KB = Ocultar barra lateral
+
+
+
+Ctrl + A = Seleciona a página inteira
+
+Ctrl + s = Salva a página
+
+Ctrl + z = Retrocede a última ação
+
+Ctrl + x = Recorta
+
+Alt + Tab = Alterna entre as janelas 
+
+Ctrl + Tab = Avança uma janela 

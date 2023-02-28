@@ -1,0 +1,67 @@
+✦✦ Comandos de Abreviação Emmet Visual Code HTML✦✦
+
+► Estrutura Básica do HTML ➤ html:5 ou !
+
+► Como criar uma tag rápidamente ➤ Basta escrever a tag e dar "enter" ou "tab"
+Ex: title, p, h1...
+
+► Como criar duas ou mais tags com uma hierarquia ➤ Para isso basta escrever o nome das
+tags e adicionar entre elas o sinal ">" e logo após dar "enter" ou "tab"
+Ex: ul>li, ol>li... 
+
+► Como criar uma Tag já com uma classe (class="") ou um id (id="") ➤  Para criar com uma 
+classe você adiciona um "." (ponto) + o nome da classe e para o id você adiciona um "#"
++ o nome do id
+Ex: ul.veremlho, ul#verde...
+
+► Como criar várias Tags ao mesmo tempo ➤ Basta adiona o simbolo de multiplicação (*)
+a frente da tag que isso a fará ser multiplicada
+Ex: li*4, h2*3...
+
+► Como escrever em mais de uma linha visual code ➤ Segurar o alt e clique 
+
+► Alt + Shift + seta para baixo  ➤ duplica tudo o que estiver na linha de cima para uma 
+nova linha a baixo  
+
+► Comando para adiconar rapidamente parentes em um texo  ➤ para isso voê precisa apenas 
+selecionar o texto e usar a tecla de parentes 
+
+► Ctrl + Shift + Z ➤ Refazer
+
+► Ctrl + Shift + N ➤ abre a saida do terminal
+
+► Ctrl + Shift + ' ➤ abre o terminal
+
+► Ctrl + Espaço ➤ serve para selecionar arquivos de forma mais rápida em tags que possuam essa 
+característica, ex: img 
+
+► Ctrl + Shift + P ➤ permite você adcionar uma tag ao texto que você selecionou, mas para isso 
+é preciso selecionar a opção "Envolver com abreviação" (Wrap with abreviation) e depois é só 
+escrever o nome da tag que deseja 
+
+► Shift + Tab ➤ ao selecioanr várias linhas de código e usar esse comando faz com que o espaçamento 
+inicial do texto retroceda
+
+► Ctrl + e ➤ Permite a você navegar pelas abas abertas no vscode
+
+► Ctrl + e + @ ➤ Permite você navegar entre as tags da sua página
+
+► Ctrl + w ➤ fecha a aba que você está usando no vscode
+
+► Ctrl + r ➤ abre uma barra de pesquisa que te permite a você abrir qualquer pasta do seu computador
+no vscode (ele abrirá uma nova janela)
+
+► Windows + v ➤ Abre a área de transferência 
+
+► Ctrl + Shift + l ➤ Permite você selecionar uma palavra/tag e modificar todas as palavras/tags ao 
+mesmo tempo 
+
+► Ctrl + ] ➤ Faz com que o vscode abrá uma aba simuntânea podendo ser abertas 2, 3... abas em uma 
+mesma janela 
+
+► Alt + seta para cima e para baixo ➤ Permite você mover o texto selecioando entre as linhas 
+
+
+
+
+

@@ -1,0 +1,64 @@
+► Extenções do meu Visual Code 
+
+➤ Portugues 
+
+➤ Live server 
+
+➤ Open HTML/PHP
+
+➤ HTML CSS Support
+
+➤ Dracula Official
+
+➤ Code runner 
+
+➤ vscode-icons [Para ativa-lo vá em "Arquivos" > "Preferência" > "Tema" > 
+"Tema do ícone de arquivo" > "vscode-icons"]
+➤ Configurações gerais (Não é uma extensão) 
+[Vá em "Arquivo" > "Preferência" > "Configurações" >
+digite "Line Height" no campo de busca e por fim digite 25 (Essa configuração tederminará
+o espaçamento entre as linhas do código)]
+[Vá em "Arquivo" > "Preferência" > "Configurações" >
+digite "Cursor Style" e selecione a opção "line-thin" (Essa configuração tederminará o
+formato do curso de digitação)]
+[Para alterar o lado da barra lateral vá na engrenagem de confugurção (localizada no 
+canto inferior esquerdo ou direiro), clique com o botão direito e selecione a opção 
+"Mover a barra lateral"]
+
+➤ Prettier [Para ativa-lo vá em "Arquivo" > "Preferência" > "Configurações" >
+digite "Format On Save" > ative a função > digite "Editor: Default Formatte" >
+selecione a opção "Prettier - code formatter" (Sua função é organizar o código após 
+o salva-lo)]
+
+➤ Bracket Pair Colorization Toggler [[Para ativa-lo vá em "Arquivo" > "Preferência" > 
+"Configurações" > digite "Bracket Pair Colorization" > ative a função (Sua função é 
+colorir os colchetes para facilitar a identificação deles)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

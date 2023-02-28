@@ -1,0 +1,44 @@
+✦✦Tutorial de como iniciar o php✦✦
+
+
+▷ Utilize apenas letras, números, ., -, _, para nomear as pastas
+
+▷ Realizar o dowload de uma das versões do php, o arquivo deve ficar no disco (C:)
+
+▷ Realizar o dowload do C++ da Microsft
+
+▷ Como deixar o executável do php global(para poder utilizar mais facilmente 
+no prompt de comando): para isso você deve abrir a pasta do php que foi instalado, 
+copiar o caminho, abrir o painel de controle, ir em sistema e abrir as configurações 
+avançadas, na guia "avançado" clicar em variáveis de ambiente, em variáveis do 
+sistema clique na pasta "Path" e depois em editar, clique em "novo" e adicione o 
+caminho que foi anteriormente copiado, por fim clique em "ok"
+ 
+▷ Windows + R é comando para abrir o "EXECUTAR"
+
+▷ CMD no "EXECUTAR" abre o PROMPT DE COMANDO
+
+▷ Comando 'cd' permite você avançar pelas pastas do disco (C:)
+
+▷ Comando 'cd ..' serve para retroceder uma past" do disco (C:)
+
+▷ Comando 'cd ../..' serve para retroceder todas as pasta do disco (C:)
+
+▷ php -S localhost:8000 [Este comando é utilizado no prompt de comando para 
+poder estar iniciando um servidor, "php -S" é o comando básico, já
+a palavra "localhost" é utilizado por causa que o documento se encontra 
+na sua máquina e por fim o "8000" tem a finalidade de identificar 
+qual porta de entrada do servidor estamos usando 
+VOCÊ ADICIONAR O COMANDO DE SERVIDOR NA ULTIMA PASTA ONDE ONDE OS ARQUIVOS
+ESTÃO E NÃO NA PRIMEIRA (CASO HAJA MAIS DE UMA) 
+
+▷ Para desativar o servidor utilizamos o comando Ctrl + c
+
+▷ Como abrir um arquivo PHP no browser [Para isso é preciso colocar
+na url "localhost:" + o servidor que estiver utilizando (o servidor 
+deve ser inicializado antes desse procedimento no prompt de comando) + "/" + o nome 
+do seu arquivo 
+EX: localhost:8000/01-condicionais-IfeElse.php]
+
+
+

@@ -1,0 +1,65 @@
+<<GITHUBE / DESKTOP>>
+
+► 1° você deve o Github Desktop no site
+(Link: https://desktop.github.com/)
+
+► 2° Você deverá criar uma conta no site Github, após ter criado ela entre com ela no app que você
+abaixou no passo anterior
+
+► 3° Dentro do app "Github Desktop" já logado, selecione a opção "Create a new repository on your hand drive"
+
+► 4° Muita Atenção! 
+Como preenche o formulário da criação de um repositório:
+✦Name:
+Nele você colocará o nome do arquivo que você deseja criar um repositório
+Ex: 01-modulo_html_css
+✦Description:
+Você irá adiconar uma breve descrição sobre o que se trata o arquivo 
+✦Local path:
+Cuidado! Aqui você irá colocar o caminho de onde seu arquivo se encontra, você deverá selecionar 
+apenas até a pasta que dentro dela estará o arquivo que será criado o repositório, VOCÊ NÃO IRÁ 
+SELECIONAR O ARQUIVO/PASTA QUE VOCÊ COLOCOU EM "NAME", MAS SIM UM NÍVEL ATRÁS:
+Ex:
+C:\programação
+✦Intialize this repository with a README:
+Selecione esta opção, ela irá cirar um arquivo README.md
+✦Git ingore:
+Serve para selecionar uma linguagem específica, caso não esteja usando nenhuma selecione a opção 
+"None"
+✦License:
+Selecione "MIT License"
+
+✦✦Após ter realizado este procedimento você já terá criado um Repositório Local!
+
+► 6° Para crair um repositório remoto na página do Github você precisa apenas selecionar a opção
+"Publish repository" na página inicial (Tendo selecioando o repositório dentro do app, para isso 
+é simples, verefique no canto esquerdo superior em "Current repository" lá você poderá vizualizar 
+qial repositório está selecioando e caso queria trocar é apenas clicar e escolher aquele que você 
+precisa), após isso desmarque a caixa "Keep this code privade" (Com isso seu código ficará publico)
+
+7° Para criar mais repositório, após ter criado o primeiro vá no canto superior esquerdo em "File
+> Ner Repository"
+
+8° Você pode abrir seu arquivo no VS code pelo próprio APP, basta você selecionar o arquivo/pasta 
+que deseja e após isso clicque em "Open in Visual Code" na página inicial
+
+9° Após realizar uma alterção e salva-lo em um arquivo com um repositório criado, aparecerá 
+a alteração no APP e lá você poderá salvar a alteração no repositório e assim criando uma nova 
+versão, para isso você deverá escrever uma breve explicação da alteração feita no canto inferior 
+esquerdo e clicar em "Commit to main"
+
+10° Para atualziar o repositório remoto é só clicar me "Push origin" na página inicial
+
+11° Você pode criar uma pasta nova direto pelo APP, basta você realizar crair um novo repositório 
+como foi enciando no passo 4, a única diferença e que em "Name" você colorá o nome da pasta que 
+deseja criar, e assim o próprio APP irá criar para você
+
+12° Como mudar a visibilidade de uma pasta sua no repositório remoto, para isso vá no seu perfil 
+no site da Github > repositórios/repositories > selecione o arqivo que deseja realizar a mudançã 
+> configurações/settings > role até o fim da página > clique em "Change repository visibility"
+
+13° Como apagar seu repositório local, para isso abrá seu APP, selecione o arquivo/pasta que 
+deseja excluir > Repository > Remove 
+
+14° Como apagar seu repositório local, para isso vá nos seus repositórios no Github > settings 
+> role para o final da página > delete this repository

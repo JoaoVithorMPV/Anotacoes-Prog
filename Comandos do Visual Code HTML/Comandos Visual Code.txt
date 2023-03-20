@@ -61,7 +61,7 @@ mesma janela
 
 ► Alt + seta para cima e para baixo ➤ Permite você mover o texto selecioando entre as linhas 
 
-
+► Ctrl + botão esquerdo do mouse + selecione o item que deseja ➤ comando para deselecionar itens como pastas e arquivos 
 
 
 

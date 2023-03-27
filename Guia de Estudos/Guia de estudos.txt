@@ -1,0 +1,319 @@
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<HTML>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+► Fundamentos:
+
+✦ Estrutura básica do HTML: 
+É importante entender a estrutura básica do HTML, que inclui as tags HTML, head e body, além de como definir o título da 
+página e adicionar metadados.
+
+✦ Elementos HTML:
+É importante conhecer os elementos HTML básicos, como headings, parágrafos, listas, imagens, links e formulários.
+
+✦ Atributos HTML: 
+Aprender sobre os atributos HTML, como id, class, href, src, alt e title, é essencial para entender como funcionam as 
+marcações e os elementos HTML.
+
+
+► Semântica:
+
+✦ Significado semântico das tags HTML: 
+A semântica é a parte mais importante do HTML, pois define o significado e o propósito das marcações e dos elementos. 
+É fundamental entender como usar as tags HTML corretamente e de forma semântica, para melhorar a acessibilidade e a 
+indexação dos mecanismos de busca.
+
+✦ Elementos semânticos do HTML5: 
+O HTML5 introduziu vários novos elementos semânticos, como header, footer, nav, section, article e aside, que são 
+importantes para criar layouts mais organizados e fáceis de entender.
+
+✦ Estruturação do conteúdo: Aprender como estruturar o conteúdo da página usando as tags HTML corretas é fundamental para 
+tornar o conteúdo mais legível e compreensível para os usuários e os mecanismos de busca.
+
+
+► Prática e Ferramentas:
+
+✦ Validação do HTML: É importante validar o HTML para garantir que ele esteja correto e sem erros. Existem várias ferramentas 
+online que podem ajudar a validar o HTML.
+
+✦ Exercícios práticos: Praticar a criação de páginas HTML simples e complexas é fundamental para consolidar o 
+
+✦ conhecimento e as habilidades em HTML.
+Editores de texto: Utilizar um editor de texto para escrever HTML pode ajudar a tornar o processo mais eficiente e 
+produtivo. Alguns editores populares incluem o VS Code, o Atom e o Sublime Text.
+
+► ferramentas para validar o html
+
+✦W3C Markup Validation Service: 
+É uma ferramenta gratuita oferecida pelo consórcio W3C, que valida o código HTML e XHTML de acordo com as especificações do 
+W3C. Para usá-la, basta copiar e colar o código HTML no campo de texto ou inserir a URL da página que deseja validar.
+
+✦HTML Validator: 
+É uma extensão do Google Chrome que valida o HTML de uma página diretamente no navegador. Ele fornece informações detalhadas 
+sobre erros e avisos no código HTML e permite corrigi-los diretamente no navegador.
+
+✦Total Validator: É uma ferramenta de validação gratuita que pode validar tanto o HTML como o CSS de uma página. Além disso,
+ele também verifica a acessibilidade, a compatibilidade com os padrões e a performance da página.
+
+✦Nu Html Checker: É uma ferramenta de validação de código HTML gratuita e de código aberto, que verifica o código HTML em 
+busca de erros e avisos. Ele pode ser usado diretamente no navegador ou por meio de uma API.
+
+✦AChecker: É uma ferramenta de validação de acessibilidade gratuita que verifica a conformidade do HTML e do CSS com as 
+diretrizes de acessibilidade da Web Content Accessibility Guidelines (WCAG). Ele fornece sugestões de melhorias para
+tornar a página mais acessível.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>><<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<CSS>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+► Tecnologias/Fundamentos:
+
+✦ Box Model: 
+✦Essa é uma das técnicas mais antigas do CSS, mas ainda é fundamental para entender como os elementos são posicionados
+e dimensionados na página. Certifique-se de entender como as propriedades de padding, border e margin afetam o tamanho e a 
+aparência dos elementos.
+
+Flexbox: 
+✦ O Flexbox é uma técnica mais recente que permite criar layouts flexíveis e responsivos. É importante entender como as 
+propriedades flexbox funcionam e como elas podem ser usadas para criar layouts complexos.
+
+Grid Layout: 
+✦ O Grid Layout é outra técnica mais recente que permite criar layouts mais avançados e complexos. É importante 
+entender como funciona a criação de grids com essa técnica e como utilizá-los para criar layouts mais dinâmicos.
+
+
+► Metodologias:
+
+✦ BEM (Block, Element, Modifier): 
+BEM é uma metodologia de nomenclatura de classes que torna o código mais organizado e fácil de 
+entender. Aprender essa metodologia é muito importante para garantir a escalabilidade do seu código.
+
+✦ SMACSS (Scalable and Modular Architecture for CSS): 
+SMACSS é outra metodologia de nomenclatura de classes que também é muito 
+útil para manter seu código organizado e escalável. Ela enfatiza a separação das partes do seu CSS em diferentes arquivos, o 
+que pode ajudar na manutenção do código.
+
+✦ OOCSS (Object-Oriented CSS): 
+OOCSS é uma metodologia de escrita de CSS que enfatiza a reutilização de código e a separação das
+partes do CSS em objetos independentes. Ela pode ser útil para criar CSS mais modular e fácil de manter.
+
+
+► Frameworks:
+
+✦ Bootstrap: [1]
+O Bootstrap é um dos frameworks CSS mais populares e amplamente utilizados no desenvolvimento web. É importante 
+aprender a usar o Bootstrap, pois ele oferece uma grande variedade de recursos e componentes pré-construídos.
+
+✦ Materialize: 
+Materialize é outro framework CSS popular que oferece recursos e componentes pré-construídos com base no design 
+Material Design do Google. É importante aprender a usar o Materialize para garantir a consistência do design da sua aplicação.
+
+✦ TailwindCSS: [2]
+O TailwindCSS é uma opção mais recente de framework CSS que permite criar estilos personalizados e escaláveis de 
+maneira mais rápida e fácil. É importante aprender a usar o TailwindCSS para melhorar a eficiência na escrita do CSS e 
+acelerar o processo de desenvolvimento.
+
+
+► CSS Animado
+
+✦ Estudar CSS animado
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>><<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<GIT e GitHub>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+► Git e GitHub
+
+✦ Fazer o curso do Curso em Vídeo no youtube 
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>><<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>><<<<<<<<<<JS e TypeS>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+►Fundamentos:
+
+✦ Sintaxe básica do JS e do TypeScript: É importante entender a sintaxe básica do JS e do TypeScript, incluindo variáveis, 
+tipos de dados, funções, loops e condicionais.
+
+✦ Manipulação do DOM: Aprender a manipular o DOM com JS é fundamental para criar interatividade em páginas web.
+
+✦ Eventos: Aprender a trabalhar com eventos em JS é importante para criar interatividade em páginas web, como detectar 
+cliques, pressionamentos de teclas e rolagens.
+
+✦ Promises: Aprender a trabalhar com Promises é fundamental para lidar com operações assíncronas em JS.
+
+
+► Frameworks:
+
+✦ React: O React é um dos frameworks mais populares para criar interfaces de usuário. Aprender a usar o React, incluindo 
+conceitos como componentes, props e estado, é importante para criar interfaces de usuário dinâmicas e reativas.
+
+✦ Angular: O Angular é um framework de desenvolvimento de aplicativos web da Google. Aprender a usar o Angular, incluindo 
+conceitos como componentes, serviços e roteamento, é importante para criar aplicativos web complexos e escaláveis.
+
+✦ Svelte: O Svelte é um framework de front-end que se concentra em gerar código otimizado para o navegador. Aprender a usar 
+o Svelte, incluindo conceitos como componentes e reatividade, é importante para criar aplicativos web rápidos e eficientes.
+
+✦ Vue.js: O Vue.js é um framework de front-end progressivo e fácil de aprender. Aprender a usar o Vue.js, incluindo conceitos como componentes e diretivas, é importante para criar interfaces de usuário dinâmicas e reativas.
+Prática e Ferramentas:
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>><<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>><<<<<<<<<<JS e TypeS>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+► Fundamentos:
+
+✦ Sintaxe básica do JS e do TypeScript: 
+É importante entender a sintaxe básica do JS e do TypeScript, incluindo variáveis, 
+tipos de dados, funções, loops e condicionais.
+
+✦ Manipulação do DOM: 
+Aprender a manipular o DOM com JS é fundamental para criar interatividade em páginas web.
+
+✦ Eventos: 
+Aprender a trabalhar com eventos em JS é importante para criar interatividade em páginas web, como detectar cliques, 
+pressionamentos de teclas e rolagens.
+
+✦ Promises: 
+Aprender a trabalhar com Promises é fundamental para lidar com operações assíncronas em JS.
+
+
+► Frameworks:
+
+✦ React: [1]
+O React é um dos frameworks mais populares para criar interfaces de usuário. Aprender a usar o React, incluindo conceitos 
+como componentes, props e estado, é importante para criar interfaces de usuário dinâmicas e reativas.
+
+✦ Angular: [2]
+O Angular é um framework de desenvolvimento de aplicativos web da Google. Aprender a usar o Angular, incluindo conceitos
+como componentes, serviços e roteamento, é importante para criar aplicativos web complexos e escaláveis.
+
+✦ Svelte: 
+O Svelte é um framework de front-end que se concentra em gerar código otimizado para o navegador. Aprender a usar o 
+Svelte, incluindo conceitos como componentes e reatividade, é importante para criar aplicativos web rápidos e eficientes.
+
+✦ Vue.js:
+O Vue.js é um framework de front-end progressivo e fácil de aprender. Aprender a usar o Vue.js, incluindo conceitos como componentes e diretivas, é importante para criar interfaces de usuário dinâmicas e reativas.
+Prática e Ferramentas:
+
+
+* Bibliotecas e módulos: Aprender a usar bibliotecas e módulos JS e TypeScript populares, como o Lodash, o Moment.js e o 
+Axios, é importante para ampliar a funcionalidade de suas aplicações.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>><<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<teste automatizados para o frontend>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+► JSet
+
+✦ O que é JSet e como funciona
+
+✦ Configurando o ambiente de teste com JSet
+
+✦ Escrevendo testes automatizados com JSet
+
+✦ Executando testes automatizados com JSet
+
+✦ Relatórios de testes automatizados com JSet
+
+
+► Cypress
+
+✦ O que é Cypress e como funciona
+
+✦ Configurando o ambiente de teste com Cypress
+
+✦ Escrevendo testes automatizados com Cypress
+
+✦ Executando testes automatizados com Cypress
+
+✦ Relatórios de testes automatizados com Cypress
+
+
+► Integrando testes automatizados ao processo de desenvolvimento
+
+✦ Integração contínua e testes automatizados
+
+✦ Automação de testes em pipeline de CI/CD
+
+✦ Combinando testes automatizados com outros processos de qualidade de código
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>><<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<Outros>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+Logica de programacao Alura 
+
+Stule guide
+
+calc()
+
+pseudo classe css
+
+
+
+
+
+
+sd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

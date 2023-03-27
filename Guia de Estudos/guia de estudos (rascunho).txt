@@ -1,0 +1,98 @@
+Github
+Curso em video
+
+
+
+HTML
+Semantica
+
+
+
+
+CSS
+
+Tecnologias/Fundamentos
+Box Model (Mais antiga)
+Flexbox 
+Grid layout
+
+Metodologias
+Bem (aprender preferencialmente)
+Smacss
+Oocss
+
+Frame Works
+Booststrap (aprender preferencialmente)
+Materialize
+TailwindCSS (2* opção)
+
+
+
+
+
+JavaCript
+TypeScript
+
+Frame Works
+React [Meta] (aprender preferencialmente)
+Angular [Goolgle] (2* opção)
+Svelte
+Vue.js
+
+
+estilos de arquiteturas para desenvolvimentos de serviços webs que utiliza o protocolo HTTP para transferência de dados entre cliente e servidor (frondend conversando com o backend) 
+Api rest
+Json
+GraphQL
+JWT e 2FA (voltando para a segurança das transmissão, armazenamento e compactação de informações entre aplicações(sites distindos))
+
+WEB API (é um motor de renderização de código aberto utilizado em navegadores web, como o Safari e o Google Chrome.)
+Google Maps API
+Twitter API
+GitHub API
+Obs: exemplos de Web APi, o que deve ser estudado é o sistema e
+aplicação de web Api já existentes
+
+
+Gerenciamento de estatos 
+bibliotecas/frameWorks para cada frameWork de criação de layout css
+REDUX > React
+ngRx > Angular
+VueX > Vue.js
+MobX ? Angular e Vue.js
+
+Tecnologias de renderização do lado do servidor SSR
+Next.js
+Remix 
+
+SEO(é um conjunto de técnicas e estratégias para otimizar conteúdo de um site e melhorar seu posicionamento nos resultados de busca dos mecanismos de pesquisa)
+lighthouse
+
+Estudar HTTP e seus fundamentos e os
+Métodos de requisição: 
+Get
+Post 
+Put
+Patch
+Delete
+
+O que é cache e como utiliza-lo
+
+Estudar CDN (contente Delivery Network)
+
+
+gerenciador de pacotes para projetos JavaScript
+NPM
+YARN
+PNPM
+
+como usar ferramentas de teste automatizados para o frontend
+Jset [Meta]
+Cypress
+
+Estudar UX (User Experience)
+
+
+
+
+a

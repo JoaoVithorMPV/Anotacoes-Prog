@@ -14,7 +14,7 @@ Aprender sobre os atributos HTML, como id, class, href, src, alt e title, é ess
 marcações e os elementos HTML.
 
 
-► Semântica:
+► Semântica: ☪☪☪☪☪☪☪
 
 ✦ Significado semântico das tags HTML: 
 A semântica é a parte mais importante do HTML, pois define o significado e o propósito das marcações e dos elementos. 
@@ -46,7 +46,7 @@ produtivo. Alguns editores populares incluem o VS Code, o Atom e o Sublime Text.
 É uma ferramenta gratuita oferecida pelo consórcio W3C, que valida o código HTML e XHTML de acordo com as especificações do 
 W3C. Para usá-la, basta copiar e colar o código HTML no campo de texto ou inserir a URL da página que deseja validar.
 
-✦HTML Validator: 
+✦HTML Validator:  ☪☪☪☪☪☪☪☪☪
 É uma extensão do Google Chrome que valida o HTML de uma página diretamente no navegador. Ele fornece informações detalhadas 
 sobre erros e avisos no código HTML e permite corrigi-los diretamente no navegador.
 
@@ -71,23 +71,23 @@ tornar a página mais acessível.
 
 ► Tecnologias/Fundamentos:
 
-✦ Box Model: 
+✦ Box Model: ☼☼☼☼☼☼☼☼
 ✦Essa é uma das técnicas mais antigas do CSS, mas ainda é fundamental para entender como os elementos são posicionados
 e dimensionados na página. Certifique-se de entender como as propriedades de padding, border e margin afetam o tamanho e a 
 aparência dos elementos.
 
-Flexbox: 
+Flexbox: ☪☪☪☪☪☪☪
 ✦ O Flexbox é uma técnica mais recente que permite criar layouts flexíveis e responsivos. É importante entender como as 
 propriedades flexbox funcionam e como elas podem ser usadas para criar layouts complexos.
 
-Grid Layout: 
+Grid Layout: ☪☪☪☪☪☪☪
 ✦ O Grid Layout é outra técnica mais recente que permite criar layouts mais avançados e complexos. É importante 
 entender como funciona a criação de grids com essa técnica e como utilizá-los para criar layouts mais dinâmicos.
 
 
 ► Metodologias:
 
-✦ BEM (Block, Element, Modifier): 
+✦ BEM (Block, Element, Modifier): ☼☼☼☼☼☼☼☼☼☼
 BEM é uma metodologia de nomenclatura de classes que torna o código mais organizado e fácil de 
 entender. Aprender essa metodologia é muito importante para garantir a escalabilidade do seu código.
 
@@ -103,7 +103,7 @@ partes do CSS em objetos independentes. Ela pode ser útil para criar CSS mais m
 
 ► Frameworks:
 
-✦ Bootstrap: [1]
+✦ Bootstrap: [1] ☀☀☀☀☀☀☀
 O Bootstrap é um dos frameworks CSS mais populares e amplamente utilizados no desenvolvimento web. É importante 
 aprender a usar o Bootstrap, pois ele oferece uma grande variedade de recursos e componentes pré-construídos.
 
@@ -117,9 +117,9 @@ maneira mais rápida e fácil. É importante aprender a usar o TailwindCSS para 
 acelerar o processo de desenvolvimento.
 
 
-► CSS Animado
+► CSS Animado ☪☪☪☪☪☪
 
-✦ Estudar CSS animado
+✦ Estudar CSS animado ☪☪☪☪☪
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>><<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
@@ -127,10 +127,10 @@ acelerar o processo de desenvolvimento.
 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<GIT e GitHub>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ 
+► Git e GitHub ☪☪☪☪☪☪☪
 
-► Git e GitHub
-
-✦ Fazer o curso do Curso em Vídeo no youtube 
+✦ Fazer o curso do Curso em Vídeo no youtube  ☪☪☪☪☪☪☪
 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>><<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -278,7 +278,7 @@ calc()
 
 pseudo classe css
 
-
+Markdown
 
 
 
